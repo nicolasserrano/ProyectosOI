@@ -1,7 +1,7 @@
 # Proyecto Fin de Grado en Organizaci&oacute;n Industrial
 
 En los proyectos de Organizaci&oacute;n Industrial es necesario
-rellenar [la ficha adjunta](https://nicolasserrano.github.io/anexo/ProyectosOI/PFG.doc)
+rellenar [la ficha adjunta](https://nicolasserrano.github.io/ProyectosOI/anexo/PFG.doc)
 y as&iacute; poder validarlo y asignar un supervisor en Tecnun.
 
 Las tareas rellenadas en los &uacute;ltimos apartados son a modo de ejemplo,
