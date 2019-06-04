@@ -1,4 +1,4 @@
-# ProyectosOI
+# Proyecto Fin de M&aacute;ster en Organizaci&oacute;n Industrial
 
 En los proyectos de Organizaci&oacute;n Industrial es necesario rellenar
 [la ficha adjunta](https://nicolasserrano.github.io/ProyectosOI/anexo/PFM.doc) y as&iacute; poder validarlo
