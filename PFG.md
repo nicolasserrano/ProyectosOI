@@ -9,7 +9,7 @@ se deben completar con los datos espec&iacute;ficos del proyecto.
  
 Las tareas deben ser del orden de 20 a 40 horas, por lo que para un proyecto de 12 ECTS,
 esto es, 300 – 360 horas, lo normal es que haya unas 12 tareas. Estas tareas deben ser
-específicas del proyecto que se proponene, ya que el prop&oacute;sito de esta informaci&oacute;n
-es poder tener una idea de en qu&eacute; consiste el proyecto para validarlo y asignar el supervisor m&aacute;s adecuado.
+específicas del proyecto que se propone, ya que el prop&oacute;sito de esta informaci&oacute;n
+es poder tener una idea de en qu&eacute; consiste el proyecto para validarlo y en algunos casos decidir el supervisor m&aacute;s adecuado.
 
 Una vez rellenada la hoja se env&iacute;a al responsable de proyectos para comentarla o asignar un supervisor.
